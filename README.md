@@ -1,5 +1,5 @@
-# Python For Everybody specialization by University of Michigan. 
-Coursera [Python for Everybody specialization](https://www.coursera.org/specializations/python "Awesome stuff") is offered by University of Michigan.
+# Python For Everybody Specialization 
+ [Coursera Python for Everybody Specialization by University of Michigan ](https://www.coursera.org/specializations/python "Awesome stuff") 
 
 ## Overview
 This Specialization introduces fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language.
