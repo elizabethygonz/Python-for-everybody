@@ -9,8 +9,13 @@
 #< 0.6 F
 #If the user enters a value out of range, print a suitable error message and exit.
 #For the test, enter a score of 0.85.
+
+
+#User Input
 score = input("Enter Score:")
+#Input to float
 scorefloat = float(score)
+#Conditional for range calculation
 if scorefloat > 1 or scorefloat < 0 :
     print("Out of range, pidor")
 elif scorefloat >= 0.9 :
