@@ -15,7 +15,7 @@
 score = input("Enter Score:")
 #Input to float
 scorefloat = float(score)
-#Conditional for range calculation
+#Conditional for score calculation
 if scorefloat > 1 or scorefloat < 0 :
     print("Out of range, pidor")
 elif scorefloat >= 0.9 :
