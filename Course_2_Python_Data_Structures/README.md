@@ -2,7 +2,7 @@
 
 [Python Data Structures](https://www.coursera.org/learn/python-data) covers chapters 6-10 of the Charles R. Severance 'Python for Everybody: Exploring Data in Python 3' book.
 
-Current repo contains slides with course materials and my solution to the assignments.
+Current repo contains  my solution to the assignments and quizzes.
 
 [6th chapter](https://www.py4e.com/html3/06-strings) of the Charles R. Severance book.
 
