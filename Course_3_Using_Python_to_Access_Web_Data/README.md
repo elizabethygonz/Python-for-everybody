@@ -6,11 +6,8 @@ Current repo contains slides with course materials and my solution to the assign
 
 [11th chapter](https://www.py4e.com/html3/11-regex) of the Charles R. Severance book.
 
-#### Reference materials
 
-[Introduction to Networking](http://www.net-intro.com/) (free textbook)
-[Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history) (Coursera Course)
 
 #### Notes
 
-- test.txt is used for the asssignment\_11.py
+- Each folder contents the extra files needed.
